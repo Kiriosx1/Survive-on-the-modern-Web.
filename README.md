@@ -97,5 +97,9 @@ A secure browser means nothing if your personal habits are terrible. Follow thes
 * Your ISP can see every website you visit via DNS requests. 
 * Change your router and browser DNS to **NextDNS**, **Quad9 (9.9.9.9)**, or **Mullvad**. This encrypts your traffic requests and blocks malware/ads at the network level.
 
----
+## 5. My setup
+
+* i personally use libre wolf with alot of the seetiing i have implement in this repository dns over https with mullvad custom dns which is this right here https://family.dns.mullvad.net/dns-query it block mallware ads trackers adult content and even gambling so everything all around for extension i have uBlock , CSS Exfil , CanvasBlocker,
+ClearURLs , First Party Isolation , Port Authority i curently dont have a vpn but if i am planning in the near feature mullvad is my prefrence but there are alot of other option too i suggest as iam saying above to use a vpn that has a zero log policy this is all for my setup i am on windows with extra stuff for security but that all with all this i feel safer and more secure and i am not afraid of seeing my self in a data leak or anything particullar
+--- 
 *Stay safe. Trust no one. Verify everything.*
